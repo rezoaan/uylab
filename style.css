@@ -1,0 +1,15 @@
+.popup {
+  height: 350px;
+  width: 400px;
+  background: teal;
+  margin: 100px auto 0;
+  padding: 20px;
+  font-size: 24px;
+  color: white;
+  display: none;
+}
+.close_btn {
+  cursor: pointer;
+  color: red;
+   
+}
